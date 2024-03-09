@@ -16,6 +16,9 @@ List of services that help provide ways for you to test against your users.
 * [Usability Tools](http://usabilitytools.com/) In-page visual analytics of what users are doing
 * [CrazyEgg](https://www.crazyegg.com/) Find out what makes visitors leave by seeing how users click and scroll
 * [TryMyUI](http://www.trymyui.com/) Watch videos of real people using your website and find out
+* [Adobe Target](https://business.adobe.com/products/target/adobe-target.html) Tests can be to websites via javascript on top of your main code which is the control
+* [HotJar](https://www.hotjar.com/) Telementry tool, provides visual way to discover, consolidate, and communicate user needs via heatmaps and more
+* [Full Story](https://www.fullstory.com) Telemetry tool, they lets you see users interact with your website and narrow down what type of user you are looking at. 
 
 ## Implementing A/B testing for your users
 
